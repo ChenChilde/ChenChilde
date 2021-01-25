@@ -1,16 +1,15 @@
-### Hi there 👋
+# <sup>^</sup>ChenPlus<sup>^<sup><sup>← ChenMingMao</sup></sup></sup>
 
-<!--
-**ChenChilde/ChenChilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm just a curious cat Old boy. – Hailin*
 
-Here are some ideas to get you started:
+![#55cdfc](https://placehold.it/15/55cdfc/000000?text=+)![#f7a8b8](https://placehold.it/15/f7a8b8/000000?text=+)![#ffffff](https://placehold.it/15/ffffff/000000?text=+)![#f7a8b8](https://placehold.it/15/f7a8b8/000000?text=+)![#55cdfc](https://placehold.it/15/55cdfc/000000?text=+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+💻 macOS & Manjaro user
+
+📲 QQ/WeChat：3337123
+
+🛠 Full-stack Web Developer & Android Developer
+
+
