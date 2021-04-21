@@ -1,4 +1,5 @@
 # <sup>^</sup>ChenPlus<sup>^<sup></sup>
+ ![](https://count.getloli.com/get/@chenplus)
 ### Hi there, I'm Rook1e 👋
 *I'm just a curious cat Old boy. – Hailin*
 
