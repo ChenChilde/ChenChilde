@@ -3,6 +3,8 @@
 ### Hi there, I'm Rook1e 👋
 *I'm just a curious cat Old boy. – Hailin*
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=OldChenGit&show_icons=true&hide_border=true">
+
 ### About Me
 
 💻 macOS & Manjaro user
